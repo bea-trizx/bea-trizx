@@ -3,6 +3,7 @@
 
 - 👩‍💻👩‍🔬 Fascinada pelo mundo científico-tecnológico
 - 👷‍♀️ Estudante de Engenharia de Materiais 
+- 💡 Amante de ideias criativas e inovadoras
 <div align="center">
   <a href="https://github.com/bea-trizx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-trizx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
