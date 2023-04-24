@@ -2,8 +2,9 @@
 
 
 - 👩‍💻👩‍🔬 Fascinada pelo mundo científico-tecnológico
-- 👷‍♀️ Estudante de Engenharia de Materiais 
+- 👷‍♀️ Estudante de Engenharia de software
 - 💡 Amante de ideias criativas e inovadoras
+- 🤖 Interesse pelas áreas de IA e Machine learning
 <div align="center">
   <a href="https://github.com/bea-trizx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-trizx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -35,3 +36,5 @@
   <a href="https://www.linkedin.com/in/mariabeatrizdeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
