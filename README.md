@@ -6,6 +6,7 @@
 - 💡 Amante de ideias criativas e inovadoras
 - 🐍 Pythonzera
 - 🤖 IA, Machine learning e Automações 
+- 👩🏽Quer saber mais sobre minhas experiências em programação? Manda um e-mail aqui 👉🏼 beatrizoliveira@ufpi.edu.br 
 <div align="center">
   <a href="https://github.com/bea-trizx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-trizx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -37,7 +38,6 @@
   <a href="https://www.linkedin.com/in/mariabeatrizdeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
 
 
 
