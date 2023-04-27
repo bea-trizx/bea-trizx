@@ -2,7 +2,7 @@
 
 
 - 👩‍💻👩‍🔬 Fascinada pelo mundo científico-tecnológico
-- 👷‍♀️ Estudante de Engenharia de software
+- 👷‍♀️ Estudante de Engenharia de Software
 - 💡 Amante de ideias criativas e inovadoras
 - 🐍 Pythonzera
 - 🤖 IA, Machine learning e Automações 
