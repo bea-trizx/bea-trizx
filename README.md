@@ -5,7 +5,7 @@
 - 👷‍♀️ Estudante de Engenharia de Software
 - 💡 Amante de ideias criativas e inovadoras
 - 🐍 Pythonzera
-- 🤖 IA, Machine learning e Automações 
+- 🤖 IA, Dados e Automações 
 - 👩🏽Quer saber mais sobre minhas experiências em programação? Manda um e-mail aqui 👉🏼 beatrizoliveira@ufpi.edu.br 
 <div align="center">
   <a href="https://github.com/bea-trizx">
