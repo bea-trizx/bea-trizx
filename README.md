@@ -12,11 +12,9 @@
   <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=bea-trizx)/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-trizx&layout=compact&langs_count=7&theme=cobalt"/>
 </div><div style="display: inline_block"><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-                                        
  <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=bea-trizx&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=bea-trizxa&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
